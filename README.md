@@ -1,7 +1,7 @@
-![](https://github.com/dilarauluturhan/blindops-landingpage/assets/120499369/d31a8041-f791-40fc-8b3d-ff564b70ea2f)
+![](https://github.com/AnduriCaser/BlindOPS-Landing-Page/assets/120499369/ab816d41-fcd3-4b93-88e2-de7cc2649b94)
 ---
-![](https://github.com/dilarauluturhan/blindops-landingpage/assets/120499369/a90daa0c-563d-451b-918b-df7465417aed)
+![](https://github.com/AnduriCaser/BlindOPS-Landing-Page/assets/120499369/00763308-fd44-4c88-986e-419767412203)
 ---
-![](https://github.com/dilarauluturhan/blindops-landingpage/assets/120499369/6eef6904-b939-4990-af0f-766b4cd7111d)
+![](https://github.com/AnduriCaser/BlindOPS-Landing-Page/assets/120499369/6033b510-c343-4338-9399-aa9f16ae107d)
 ---
-![](https://github.com/dilarauluturhan/blindops-landingpage/assets/120499369/b623ebde-5033-45c9-a511-daf28ae11276)
+![](https://github.com/AnduriCaser/BlindOPS-Landing-Page/assets/120499369/baee92ac-a1db-43ed-b566-8013baecbdc9)
