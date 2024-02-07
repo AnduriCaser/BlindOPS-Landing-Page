@@ -12,18 +12,15 @@ const Solutions = () => {
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <SolutionsCard
           src="/dark1.png"
-          title="Dark 1"
-          desc="Lorem ipsum dolor sit amet cart curt flan filan"
+          desc="Easily and quickly manage all assets."
         />
         <SolutionsCard
           src="/dark2.png"
-          title="Dark 2"
-          desc="Lorem ipsum dolor sit amet cart curt flan filan"
+          desc="Analyze vulnerabilities graphically."
         />
         <SolutionsCard
           src="/dark3.png"
-          title="Dark 3"
-          desc="Lorem ipsum dolor sit amet cart curt flan filan"
+          desc="7/24 live support for all users."
         />
       </div>
     </div>

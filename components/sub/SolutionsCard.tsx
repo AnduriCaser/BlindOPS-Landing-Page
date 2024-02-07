@@ -2,24 +2,22 @@ import Image from "next/image";
 
 interface Props {
   src: string;
-  title: string;
   desc: string;
 }
 
-const SolutionsCard = ({ src, title, desc }: Props) => {
+const SolutionsCard = ({ src, desc }: Props) => {
   return (
     <div className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
       <Image
         src={src}
-        alt={title}
+        alt="Blindops"
         width={1000}
         height={1000}
         className="w-full object-contain"
       />
 
       <div className="relative p-4">
-        <h1 className="text-2xl font-semibold text-white">{title}</h1>
-        <p className="mt-2 text-gray-300">{desc}</p>
+        <p className="mt-2 text-gray-300 text-center text-base md:text-lg">{desc}</p>
       </div>
     </div>
   );
