@@ -47,10 +47,11 @@ const HeroContent = () => {
         </motion.p>
 
         <motion.a
+          href="mailto:info@syndore.com"
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Get Started
+          Get offer
         </motion.a>
       </div>
       <motion.div
